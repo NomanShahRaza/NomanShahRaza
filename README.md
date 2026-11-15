@@ -12,8 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-NomanShahRaza-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NomanShahRaza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Noman_Raza_Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noman-raza-shah-4ab99914a)
 [![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nomanshahraza@gmail.com)
-[![YOLOStudio](https://img.shields.io/badge/Explore-YOLOStudio-00D9FF?style=for-the-badge&logo=python&logoColor=111827)](https://github.com/NomanShahRaza/yolo-vision-studio)
-[![HAD Studio](https://img.shields.io/badge/Explore-HAD_Studio-9C6AFF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/NomanShahRaza/hyperspectral-anomaly-studio)
 
 <a href="https://github.com/NomanShahRaza?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/NomanShahRaza?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&color=FFB000&logo=github" alt="Total stars" /></a>
 <a href="https://github.com/NomanShahRaza?tab=followers"><img src="https://img.shields.io/github/followers/NomanShahRaza?label=Followers&style=for-the-badge&color=9C6AFF&logo=github" alt="GitHub followers" /></a>
